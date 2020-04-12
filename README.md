@@ -1,5 +1,3 @@
-![intro](http://r69.cooltext.com/rendered/cooltext308656082057234.png)
-
 # Bitch Lassagna - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!*
 [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/67gbBKH)
